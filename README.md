@@ -1,167 +1,179 @@
-# Kunwar Shaurya Pratap Singh
+<div align="center">
 
-**AI & Data Engineering student at VIT Vellore**
-**Frontend Developer | Full-stack Builder | AI/ML Engineer**
+<!-- Animated header using capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kunwar%20Shaurya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Full%20Stack%20Dev&descAlignY=55&descSize=16" width="100%"/>
 
-I build product-style software across **frontend engineering, AI tools, full-stack systems, and blockchain-based trust infrastructure**.
-My focus is simple: build projects that are technically strong, easy to use, and clear enough for real users or teams to understand.
+<!-- Animated typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI+products+that+ship+%F0%9F%9A%80;Sole+Frontend+Dev+%40+MyPerro+(Shark+Tank+S5+%F0%9F%A6%88);React+%E2%80%A2+Next.js+%E2%80%A2+LangChain+%E2%80%A2+FastAPI;VIT+Vellore+%7C+CGPA+9.01+%7C+2nd+Year+CSE" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## What I Bring
+<!-- Social badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shauryaportfolio-sage.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunwar-shaurya-24581529b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaurya002800)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunwarshaurya28@gmail.com)
 
-| Area                           | What I Work On                                                                              |
-| ------------------------------ | ------------------------------------------------------------------------------------------- |
-| **Frontend Engineering**       | React, Next.js, Tailwind CSS, responsive UI, dashboards, motion-based interfaces            |
-| **Full-stack Development**     | Authentication, APIs, PostgreSQL, Supabase, backend logic, deployment                       |
-| **AI/ML & GenAI**              | AI-powered tools, deterministic + LLM workflows, RAG-style systems, model-assisted products |
-| **Blockchain & Trust Systems** | Solidity, Web3.py, verifiable credentials, tamper-proof logs, audit trails                  |
-| **Product Thinking**           | User flows, MVP planning, UI/UX polish, demo-first engineering, business utility            |
+<br/>
 
----
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Shaurya002800&color=6AD3F7&style=flat-square&label=Profile+Views)
 
-## Featured Projects
-
-### DevBoard — Indie Talent Marketplace
-
-A full-stack platform where founders can post scoped software projects and developers can apply with focused pitches.
-
-**Built with:** Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, JWT, bcrypt, Vercel, Railway
-
-**Highlights**
-
-* JWT authentication with protected user flows
-* Project posting, filtering, and application workflow
-* Founder dashboard to review, accept, or reject applicants
-* Deployed frontend and backend with database integration
-
-**Repository:** [github.com/Shaurya002800/devboard](https://github.com/Shaurya002800/devboard)
+</div>
 
 ---
 
-### ExamChain — Zero-trust Examination Infrastructure
+## 🚀 About Me
 
-A security-focused exam platform designed to reduce paper leaks, exam manipulation, and result tampering.
-
-**Built with:** React, Vite, FastAPI, PostgreSQL, Redis, Solidity, Hardhat, Web3.py, AES-256, JWT
-
-**Highlights**
-
-* Encrypted question vault with blockchain-backed Merkle root
-* Integrity monitoring and autonomous agent-based risk scoring
-* Verifiable result credential with public verification flow
-* Demo-ready exam experience for reviewers and judges
-
-**Repository:** [github.com/Shaurya002800/ExamChain](https://github.com/Shaurya002800/ExamChain)
-
----
-
-### SpendLens — AI Spend Audit Tool
-
-A SaaS-style web app that helps startups audit AI tool subscriptions and detect unnecessary overlap in spending.
-
-**Built with:** Next.js, TypeScript, Supabase, Anthropic SDK, Resend, Jest
-
-**Highlights**
-
-* Deterministic savings calculation logic
-* AI-generated explanation layer on top of rule-based audit
-* Shareable audit result pages
-* Lead-generation focused product flow
-
-**Repository:** [github.com/Shaurya002800/ai-spend-audit](https://github.com/Shaurya002800/ai-spend-audit)
-
----
-
-### AstroMl / Serenova — Deterministic + Guarded LLM Consultation Tool
-
-An internal consultation assistant that combines deterministic domain calculations with an optional guarded LLM layer.
-
-**Built with:** Python, Streamlit, FastAPI, Swiss Ephemeris, encryption, LLM guardrails
-
-**Highlights**
-
-* Deterministic calculation engine as the source of truth
-* LLM used only for structured explanation, not unsupported generation
-* Privacy-aware session handling and encrypted storage flow
-* Multilingual output support for non-technical users
-
-**Repository:** [github.com/Shaurya002800/AstroMl](https://github.com/Shaurya002800/AstroMl)
-
----
-
-### SentinelMesh — Edge AI + IoT Threat Intelligence Prototype
-
-A hardware-software security prototype using edge AI and decentralized communication for threat detection.
-
-**Built with:** ESP32, TensorFlow Lite Micro, React, TypeScript, Socket.IO, D3.js, Solidity, Web3.py
-
-**Highlights**
-
-* On-device anomaly detection concept
-* ESP-NOW based peer-to-peer mesh communication
-* Blockchain-anchored incident logging
-* Real-time dashboard for mesh and threat visualization
-
-**Repository:** [github.com/Shaurya002800/Sentinelmesh](https://github.com/Shaurya002800/Sentinelmesh)
-
----
-
-## Technical Stack
-
-**Languages:** JavaScript, TypeScript, Python, Java, C++, Solidity
-**Frontend:** React, Next.js, Tailwind CSS, Vite, Three.js, Framer Motion
-**Backend:** Node.js, Express, FastAPI, Flask
-**Databases:** PostgreSQL, Supabase, Redis
-**AI/ML:** LangChain, FAISS, scikit-learn, TensorFlow Lite Micro, LLM APIs
-**Blockchain:** Solidity, Hardhat, Web3.py, Polygon testnet
-**Tools:** Git, GitHub, Docker, Vercel, Railway, Postman, Figma
-
----
-
-## Project Pattern I Follow
-
-```txt
-Problem → User Flow → Technical Architecture → MVP → Demo → Polish → Documentation
+```typescript
+const shaurya = {
+  name: "Kunwar Shaurya Pratap Singh",
+  role: ["Frontend Engineer", "AI/ML Builder", "Full Stack Dev"],
+  education: "B.Tech CSE (AI & Data Eng) @ VIT Vellore | CGPA: 9.01",
+  currentWork: "Sole Frontend Dev @ MyPerro 🦊",
+  featured: "Shark Tank India Season 5 📺",
+  location: "Vellore, TN (Meerut, UP native)",
+  funFact: "I shipped a live AI agri platform before finishing 1st year",
+  lookingFor: "Remote Internship — Frontend / AI / Full Stack"
+};
 ```
 
-I try to build projects that show both sides of engineering:
+---
 
-* strong technical implementation
-* clear user experience
-* real-world use case
-* readable documentation
-* clean demo story
+## 🏆 Highlights
+
+<div align="center">
+
+| 🦈 Shark Tank India S5 | 🏛️ IEEE CS-VIT | 🥇 WomenTechies '26 |
+|:---:|:---:|:---:|
+| Sole tech lead behind MyPerro's national TV feature | Senior Core Member — Dual Domain (Tech + Design) | Certificate of Exemplary Performance |
+
+</div>
 
 ---
 
-## Currently Looking For
+## 🛠️ Tech Stack
 
-I am looking for **paid internship opportunities** in:
+<div align="center">
 
-* Frontend Development
-* Full-stack Development
-* AI/ML Engineering
-* GenAI Product Development
-* Product Engineering
+**Frontend**
 
-I am especially interested in teams building AI tools, developer platforms, productivity products, SaaS products, and trust/security-focused systems.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Blockchain / IoT**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## Contact
+## 🔥 Featured Projects
 
-**GitHub:** [github.com/Shaurya002800](https://github.com/Shaurya002800)
-**LinkedIn:** [Add your LinkedIn link here](https://www.linkedin.com/in/your-linkedin-username/)
-**Portfolio:** [Add your portfolio link here](https://your-portfolio-link.com)
-**Email:** Add your professional email here
+<div align="center">
+
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| **Vivayu** | AgTech AI — crop disease detection + AgriGPT voice RAG assistant | XGBoost, LangChain, FAISS, Groq, Streamlit | [🔗 Live](https://ml-project-6c8bzwvgvr8xibunhdsjtt.streamlit.app) |
+| **SentinelMesh** | Autonomous threat intel — ESP32 swarm + on-device AI + blockchain audit | TF Lite Micro, ESP-NOW, Web3.py, Polygon, React | Equinox 2026 |
+| **DevBoard** | Full-stack indie talent marketplace — founders post, devs apply | Next.js 15, React 19, PostgreSQL, JWT, Railway | [🔗 Live](https://devboard-gamma-gilt.vercel.app) |
+| **Hack Battle** | 500+ participant hackathon platform with game-inspired UI | React, Tailwind CSS, Figma | [🔗 Live](https://hackbattle25.ieeecsvit.com) |
+| **Model Arena** | Futuristic ML hackathon platform | React, Tailwind CSS, Figma | [🔗 Live](https://model-arena.netlify.app) |
+| **IEEE CS Website** | Official chapter website — ieeecsvit.com | React, Tailwind CSS | [🔗 Live](https://ieeecsvit.com) |
+
+</div>
 
 ---
 
-## Quick Snapshot
+## 📊 GitHub Stats
 
-```txt
-Strongest areas: Frontend + Full-stack + AI product building
-Best project signal: DevBoard, ExamChain, SpendLens
-Current focus: Building internship-ready projects with real product value
-```
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaurya002800&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya002800&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya002800&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+
+[![Shaurya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaurya002800&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- Snake animation — set this up via GitHub Actions (instructions below) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaurya002800/Shaurya002800/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaurya002800/Shaurya002800/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shaurya002800/Shaurya002800/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shaurya002800&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open to remote internships — Frontend, AI/ML, Full Stack**
+
+[![Portfolio](https://img.shields.io/badge/Check_my_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shauryaportfolio-sage.vercel.app)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunwarshaurya28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunwar-shaurya-24581529b)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
