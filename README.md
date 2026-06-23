@@ -1,361 +1,167 @@
-<div align="center">
+# Kunwar Shaurya Pratap Singh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:1E3A8A,100:7C3AED&text=Kunwar%20Shaurya&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Product-minded%20Engineer%20building%20AI,%20Full-stack%20and%20Trust%20Systems&descSize=17&descAlignY=58" />
+**AI & Data Engineering student at VIT Vellore**
+**Frontend Developer | Full-stack Builder | AI/ML Engineer**
 
-<br />
-
-<a href="https://github.com/Shaurya002800">
-  <img src="https://komarev.com/ghpvc/?username=Shaurya002800&label=Profile%20Views&color=6366f1&style=for-the-badge" />
-</a>
-<a href="https://github.com/Shaurya002800?tab=followers">
-  <img src="https://img.shields.io/github/followers/Shaurya002800?style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
-</a>
-<img src="https://img.shields.io/badge/Status-Building%20in%20Public-7c3aed?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Frontend%20%7C%20Systems-38bdf8?style=for-the-badge&labelColor=0f172a" />
-
-</div>
+I build product-style software across **frontend engineering, AI tools, full-stack systems, and blockchain-based trust infrastructure**.
+My focus is simple: build projects that are technically strong, easy to use, and clear enough for real users or teams to understand.
 
 ---
 
-<table>
-<tr>
-<td width="58%">
+## What I Bring
 
-## ⚡ About Me
+| Area                           | What I Work On                                                                              |
+| ------------------------------ | ------------------------------------------------------------------------------------------- |
+| **Frontend Engineering**       | React, Next.js, Tailwind CSS, responsive UI, dashboards, motion-based interfaces            |
+| **Full-stack Development**     | Authentication, APIs, PostgreSQL, Supabase, backend logic, deployment                       |
+| **AI/ML & GenAI**              | AI-powered tools, deterministic + LLM workflows, RAG-style systems, model-assisted products |
+| **Blockchain & Trust Systems** | Solidity, Web3.py, verifiable credentials, tamper-proof logs, audit trails                  |
+| **Product Thinking**           | User flows, MVP planning, UI/UX polish, demo-first engineering, business utility            |
 
-I am **Kunwar Shaurya**, a B.Tech CSE student specializing in **AI & Data Engineering** at **VIT Vellore**.
+---
 
-I like building projects that do not just look good in a demo, but feel like real products — with clear user flows, polished interfaces, technical depth, and a reason to exist.
+## Featured Projects
 
-My work sits at the intersection of:
+### DevBoard — Indie Talent Marketplace
 
-* **Frontend Engineering** — React, Next.js, Tailwind, motion-heavy UX
-* **AI/ML Systems** — GenAI tools, deterministic + LLM hybrid workflows
-* **Full-stack Products** — auth, databases, APIs, deployment, dashboards
-* **Trust Infrastructure** — blockchain, verification, security-focused flows
-* **UI/UX Thinking** — product storytelling, interaction design, visual systems
+A full-stack platform where founders can post scoped software projects and developers can apply with focused pitches.
 
-</td>
-<td width="42%">
+**Built with:** Next.js, React, Tailwind CSS, Node.js, Express, PostgreSQL, JWT, bcrypt, Vercel, Railway
 
-## 🧭 Current Build Direction
+**Highlights**
+
+* JWT authentication with protected user flows
+* Project posting, filtering, and application workflow
+* Founder dashboard to review, accept, or reject applicants
+* Deployed frontend and backend with database integration
+
+**Repository:** [github.com/Shaurya002800/devboard](https://github.com/Shaurya002800/devboard)
+
+---
+
+### ExamChain — Zero-trust Examination Infrastructure
+
+A security-focused exam platform designed to reduce paper leaks, exam manipulation, and result tampering.
+
+**Built with:** React, Vite, FastAPI, PostgreSQL, Redis, Solidity, Hardhat, Web3.py, AES-256, JWT
+
+**Highlights**
+
+* Encrypted question vault with blockchain-backed Merkle root
+* Integrity monitoring and autonomous agent-based risk scoring
+* Verifiable result credential with public verification flow
+* Demo-ready exam experience for reviewers and judges
+
+**Repository:** [github.com/Shaurya002800/ExamChain](https://github.com/Shaurya002800/ExamChain)
+
+---
+
+### SpendLens — AI Spend Audit Tool
+
+A SaaS-style web app that helps startups audit AI tool subscriptions and detect unnecessary overlap in spending.
+
+**Built with:** Next.js, TypeScript, Supabase, Anthropic SDK, Resend, Jest
+
+**Highlights**
+
+* Deterministic savings calculation logic
+* AI-generated explanation layer on top of rule-based audit
+* Shareable audit result pages
+* Lead-generation focused product flow
+
+**Repository:** [github.com/Shaurya002800/ai-spend-audit](https://github.com/Shaurya002800/ai-spend-audit)
+
+---
+
+### AstroMl / Serenova — Deterministic + Guarded LLM Consultation Tool
+
+An internal consultation assistant that combines deterministic domain calculations with an optional guarded LLM layer.
+
+**Built with:** Python, Streamlit, FastAPI, Swiss Ephemeris, encryption, LLM guardrails
+
+**Highlights**
+
+* Deterministic calculation engine as the source of truth
+* LLM used only for structured explanation, not unsupported generation
+* Privacy-aware session handling and encrypted storage flow
+* Multilingual output support for non-technical users
+
+**Repository:** [github.com/Shaurya002800/AstroMl](https://github.com/Shaurya002800/AstroMl)
+
+---
+
+### SentinelMesh — Edge AI + IoT Threat Intelligence Prototype
+
+A hardware-software security prototype using edge AI and decentralized communication for threat detection.
+
+**Built with:** ESP32, TensorFlow Lite Micro, React, TypeScript, Socket.IO, D3.js, Solidity, Web3.py
+
+**Highlights**
+
+* On-device anomaly detection concept
+* ESP-NOW based peer-to-peer mesh communication
+* Blockchain-anchored incident logging
+* Real-time dashboard for mesh and threat visualization
+
+**Repository:** [github.com/Shaurya002800/Sentinelmesh](https://github.com/Shaurya002800/Sentinelmesh)
+
+---
+
+## Technical Stack
+
+**Languages:** JavaScript, TypeScript, Python, Java, C++, Solidity
+**Frontend:** React, Next.js, Tailwind CSS, Vite, Three.js, Framer Motion
+**Backend:** Node.js, Express, FastAPI, Flask
+**Databases:** PostgreSQL, Supabase, Redis
+**AI/ML:** LangChain, FAISS, scikit-learn, TensorFlow Lite Micro, LLM APIs
+**Blockchain:** Solidity, Hardhat, Web3.py, Polygon testnet
+**Tools:** Git, GitHub, Docker, Vercel, Railway, Postman, Figma
+
+---
+
+## Project Pattern I Follow
 
 ```txt
-Role I am growing into:
-Product Engineer / AI Full-stack Developer
-
-What I build:
-Useful AI tools
-Clean web products
-Trust-based systems
-Creative interfaces
-
-What I care about:
-Clarity
-Speed
-Polish
-Real-world utility
+Problem → User Flow → Technical Architecture → MVP → Demo → Polish → Documentation
 ```
 
-</td>
-</tr>
-</table>
+I try to build projects that show both sides of engineering:
+
+* strong technical implementation
+* clear user experience
+* real-world use case
+* readable documentation
+* clean demo story
 
 ---
 
-## 🧩 Featured Build Deck
+## Currently Looking For
 
-<table>
-<tr>
-<td width="50%">
+I am looking for **paid internship opportunities** in:
 
-### 🚀 DevBoard
-
-**Indie Talent Marketplace**
-
-A full-stack platform where founders post scoped software projects and developers apply with focused pitches.
-
-**Why it matters:**
-It solves the messy “cold DM + unclear requirement” problem by turning project hiring into a structured marketplace.
-
-**Stack:**
-`Next.js` `React` `Tailwind` `Express` `PostgreSQL` `JWT` `Railway` `Vercel`
-
-<a href="https://github.com/Shaurya002800/devboard">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%">
-
-### 🔐 ExamChain
-
-**Zero-trust Examination Infrastructure**
-
-A security-first exam system combining encrypted question vaults, integrity agents, blockchain logs, and verifiable result credentials.
-
-**Why it matters:**
-It attacks the full exam trust chain — paper leak prevention, live integrity monitoring, tamper-proof result proof.
-
-**Stack:**
-`FastAPI` `React` `PostgreSQL` `Redis` `Solidity` `Hardhat` `Web3.py` `AES-256`
-
-<a href="https://github.com/Shaurya002800/ExamChain">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💸 SpendLens
-
-**AI Spend Audit Tool**
-
-A web app that helps startups audit subscriptions like Cursor, Claude, ChatGPT, Copilot, and Gemini to detect tool overlap and estimate savings.
-
-**Why it matters:**
-It turns AI-tool chaos into a simple, useful business audit with deterministic logic and AI-generated explanations.
-
-**Stack:**
-`Next.js` `Supabase` `Anthropic SDK` `Resend` `Jest` `TypeScript`
-
-<a href="https://github.com/Shaurya002800/ai-spend-audit">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%">
-
-### 🪐 AstroMl / Serenova
-
-**Deterministic + Guarded LLM Consultation Engine**
-
-An internal consultation assistant that computes structured Vedic chart data and uses AI only as a guarded synthesis layer.
-
-**Why it matters:**
-It separates deterministic domain calculations from LLM narration, reducing hallucination and unsafe claims.
-
-**Stack:**
-`Python` `Streamlit` `FastAPI` `Swiss Ephemeris` `Encryption` `LLM Guardrails`
-
-<a href="https://github.com/Shaurya002800/AstroMl">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛡️ SentinelMesh
-
-**Edge AI + IoT Threat Network**
-
-A decentralized threat-intelligence prototype using ESP32 nodes, on-device inference, mesh communication, and blockchain incident anchoring.
-
-**Why it matters:**
-It explores how physical devices can detect and communicate security events without depending fully on cloud infrastructure.
-
-**Stack:**
-`ESP32` `TensorFlow Lite Micro` `React` `Socket.IO` `D3.js` `Polygon` `Web3.py`
-
-<a href="https://github.com/Shaurya002800/Sentinelmesh">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%">
-
-### 🌊 Grand Line Portfolio
-
-**Creative Developer Portfolio**
-
-A motion-heavy portfolio experiment blending frontend engineering, 3D interaction, storytelling, and visual identity.
-
-**Why it matters:**
-It shows the design-engineering side: not just building apps, but shaping memorable experiences.
-
-**Stack:**
-`React` `Vite` `Three.js` `React Three Fiber` `GSAP` `Framer Motion`
-
-<a href="https://github.com/Shaurya002800/D_Shaurya">
-  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Engineering Identity
-
-```mermaid
-mindmap
-  root((Shaurya))
-    Frontend
-      React
-      Next.js
-      Tailwind
-      Motion UX
-      Three.js
-    AI Systems
-      GenAI Tools
-      RAG
-      LLM Guardrails
-      Deterministic Logic
-    Full Stack
-      FastAPI
-      Express
-      PostgreSQL
-      Supabase
-      Auth
-    Trust Tech
-      Blockchain
-      Verification
-      Encryption
-      Audit Trails
-    Product Thinking
-      UX Flows
-      Business Utility
-      Demo Quality
-      Storytelling
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,solidity" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,html,css" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,supabase,redis" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode" />
-
-</div>
-
----
-
-## 📊 GitHub Signal
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaurya002800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=38BDF8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shaurya002800&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=38BDF8&currStreakLabel=FFFFFF" />
-
-<br />
-
-<img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya002800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
-
-</div>
-
----
-
-## 🧪 How I Think While Building
-
-<table>
-<tr>
-<td>
-
-### 01. Problem First
-
-I try to define the actual pain point before touching the interface or code.
-
-</td>
-<td>
-
-### 02. Product Flow
-
-I care about user journeys, edge cases, dashboards, demo paths, and clarity.
-
-</td>
-<td>
-
-### 03. System Depth
-
-I like projects with architecture, not just screens — auth, storage, APIs, logic, deployment.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 04. Visual Polish
-
-I believe good engineering should feel usable, premium, and intentional.
-
-</td>
-<td>
-
-### 05. AI With Control
-
-I prefer deterministic logic + AI assistance instead of letting LLMs invent everything.
-
-</td>
-<td>
-
-### 06. Ship Fast, Improve Fast
-
-I build, test, polish, document, and iterate in public.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Currently Looking For
-
-I am open to **paid internships** and serious project opportunities in:
-
-* Frontend Engineering
+* Frontend Development
 * Full-stack Development
 * AI/ML Engineering
 * GenAI Product Development
-* UI-focused Product Engineering
+* Product Engineering
 
-I am especially interested in teams building useful AI products, developer tools, productivity software, trust systems, and creative interfaces.
-
----
-
-## 🛰️ Connect
-
-<div align="center">
-
-<a href="https://github.com/Shaurya002800">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kunwar-shaurya-24581529b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-</a>
-<a href="https://shauryaportfolio-sage.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=7c3aed" />
-</a>
-
-</div>
+I am especially interested in teams building AI tools, developer platforms, productivity products, SaaS products, and trust/security-focused systems.
 
 ---
 
-<div align="center">
+## Contact
 
-### “I do not just build projects. I try to build proof.”
+**GitHub:** [github.com/Shaurya002800](https://github.com/Shaurya002800)
+**LinkedIn:** [Add your LinkedIn link here](https://www.linkedin.com/in/your-linkedin-username/)
+**Portfolio:** [Add your portfolio link here](https://your-portfolio-link.com)
+**Email:** Add your professional email here
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:1E3A8A,100:0F172A" />
+---
 
-</div>
+## Quick Snapshot
+
+```txt
+Strongest areas: Frontend + Full-stack + AI product building
+Best project signal: DevBoard, ExamChain, SpendLens
+Current focus: Building internship-ready projects with real product value
+```
